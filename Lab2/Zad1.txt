@@ -1,4 +1,4 @@
-Zad1.
+Zad1. 
 
 Polecenie 'ps' służy do wyświetlania aktywnych procesów. Bez użycia opcji wyświetla tylko procesy 
 aktywne w danym terminalu. Wyświetla tylko parametry: numer procesu i oznaczenie terminala np. pts/
